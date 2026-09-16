@@ -12,8 +12,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 The sample also requires a smartphone or tablet running a compatible mobile application.
 The `Testing`_ instructions refer to `nRF Connect for Mobile`_ and `nRF Blinky`_, but you can also use other similar applications, such as `nRF Toolbox`_.
 
@@ -122,7 +120,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/peripheral_lbs`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. note::
    To flash the :zephyr:board:`nrf54l15tag`, you need to plug into the ``DEBUG IN`` header on the nRF54L15 DK.

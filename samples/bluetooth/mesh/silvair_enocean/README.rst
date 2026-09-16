@@ -25,8 +25,6 @@ For provisioning and configuring of the mesh model instances, the sample require
 * `nRF Mesh mobile app for Android`_
 * `nRF Mesh mobile app for iOS`_
 
-.. include:: /includes/tfm.txt
-
 Overview
 ********
 
@@ -131,7 +129,7 @@ See :ref:`Bluetooth Mesh user guide <ug_bt_mesh>` for more information.
 
 .. |sample path| replace:: :file:`samples/bluetooth/mesh/silvair_enocean`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. |sample_or_app| replace:: sample
 .. |ipc_radio_dir| replace:: :file:`sysbuild/ipc_radio`

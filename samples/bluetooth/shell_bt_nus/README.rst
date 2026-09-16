@@ -19,8 +19,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 You also need an additional nRF52 development kit, like the PCA10040 for connecting using the :file:`bt_nus_shell.py` script.
 Alternatively, you can use :ref:`ble_console_readme` for connecting, using Linux only.
 
@@ -29,7 +27,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/shell_bt_nus`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 Testing
 *******

@@ -15,8 +15,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 To test just the Bluetooth LE Central Role operation, you need one of the following setups:
 
   * A smartphone or a tablet running a compatible application.
@@ -78,7 +76,7 @@ Building and running
 ********************
 .. |sample path| replace:: :file:`samples/bluetooth/central_and_peripheral_hrs`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. _central_and_peripheral_hrs_testing:
 

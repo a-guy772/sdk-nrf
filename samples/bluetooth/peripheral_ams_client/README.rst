@@ -12,8 +12,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 The sample also requires a device running an AMS Server to connect with (for example, an iPhone, or a computer with a Bluetooth® Low Energy dongle and the `Bluetooth Low Energy app`_).
 
 Overview
@@ -79,7 +77,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/peripheral_ams_client`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. _peripheral_ams_client_testing:
 

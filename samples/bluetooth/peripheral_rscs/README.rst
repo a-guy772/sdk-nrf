@@ -12,8 +12,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 The sample also requires a phone or tablet running a compatible application, for example `nRF Connect for Mobile`_ or `nRF Toolbox`_.
 
 Overview
@@ -49,7 +47,7 @@ Building and running
 ********************
 .. |sample path| replace:: :file:`samples/bluetooth/peripheral_rscs`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. _peripheral_rscs_testing:
 

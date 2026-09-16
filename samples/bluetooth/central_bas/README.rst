@@ -13,8 +13,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 The sample also requires a device running a BAS Server to connect with (for example, another development kit running the :ref:`peripheral_hids_mouse` or :ref:`peripheral_hids_keyboard` sample, or a computer with a Bluetooth® Low Energy dongle and the `Bluetooth Low Energy app`_).
 
 Overview
@@ -53,7 +51,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/central_bas`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. _central_bas_testing:
 

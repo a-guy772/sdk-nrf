@@ -31,8 +31,6 @@ For provisioning and configuring of the mesh model instances, the sample require
 Additionally, the sample requires the :ref:`bluetooth_mesh_sensor_client` sample application.
 The application needs to be programmed on a separate device, and configured according to the sensor observer sample's :ref:`testing guide <bluetooth_mesh_sensor_server_testing>`.
 
-.. include:: /includes/tfm.txt
-
 Overview
 ********
 
@@ -194,7 +192,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/mesh/sensor_server`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. |sample_or_app| replace:: sample
 .. |ipc_radio_dir| replace:: :file:`sysbuild/ipc_radio`

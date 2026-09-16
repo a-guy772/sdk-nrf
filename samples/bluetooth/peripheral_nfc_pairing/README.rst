@@ -24,8 +24,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 The sample has the following additional requirements:
 
 * NFC polling device (for example, a smartphone or a tablet with NFC support).
@@ -105,7 +103,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/peripheral_nfc_pairing`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 Testing
 =======

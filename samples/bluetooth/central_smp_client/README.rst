@@ -17,8 +17,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 The sample also requires a device running `mcumgr`_ with transport protocol over Bluetooth® Low Energy, for example, another development kit running the :zephyr:code-sample:`smp-svr`.
 
 .. note::
@@ -56,7 +54,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/central_smp_client`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. _bluetooth_central_dfu_smp_testing:
 

@@ -12,8 +12,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 For testing this sample, you need to have the `nRF Connect for Mobile`_ app installed on your smartphone or tablet.
 
 Overview
@@ -61,7 +59,7 @@ Building and running
 ********************
 .. |sample path| replace:: :file:`samples/bluetooth/multiple_adv_sets`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. |sample_or_app| replace:: sample
 .. |ipc_radio_dir| replace:: :file:`sysbuild/ipc_radio`

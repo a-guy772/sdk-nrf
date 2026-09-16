@@ -13,8 +13,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 You can use any two of the development kits listed above and mix different development kits.
 
 The sample also requires a connection to a computer with a serial terminal |ANSI| for each of the development kits.
@@ -121,7 +119,7 @@ Building and running
 ********************
 .. |sample path| replace:: :file:`samples/bluetooth/throughput`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. |sample_or_app| replace:: sample
 .. |ipc_radio_dir| replace:: :file:`sysbuild/ipc_radio`

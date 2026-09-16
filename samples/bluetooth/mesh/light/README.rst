@@ -23,8 +23,6 @@ The sample also requires a smartphone with Nordic Semiconductor's nRF Mesh mobil
   * `nRF Mesh mobile app for Android`_
   * `nRF Mesh mobile app for iOS`_
 
-.. include:: /includes/tfm.txt
-
 DFU requirements
 ================
 
@@ -146,7 +144,7 @@ Building and running
 
 .. |sample path| replace:: :file:`samples/bluetooth/mesh/light`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 .. |sample_or_app| replace:: sample
 .. |ipc_radio_dir| replace:: :file:`sysbuild/ipc_radio`

@@ -16,8 +16,6 @@ The sample supports the following development kits:
 
 .. table-from-sample-yaml::
 
-.. include:: /includes/tfm.txt
-
 The sample also requires a HIDS device to connect with (for example, another development kit running the :ref:`peripheral_hids_mouse` sample or :ref:`peripheral_hids_keyboard` sample, or a computer with a Bluetooth Low Energy dongle and the `Bluetooth Low Energy app`_).
 
 Overview
@@ -144,7 +142,7 @@ Building and Running
 ********************
 .. |sample path| replace:: :file:`samples/bluetooth/central_hids`
 
-.. include:: /includes/build_and_run_ns.txt
+.. include:: /includes/build_and_run.txt
 
 To build the sample with HID SCI support, use ``-DFILE_SUFFIX=hid_sci``
 
